@@ -9,6 +9,7 @@ public class te {
         System.out.println("hello  git002");
         System.out.println("hello  git");
         System.out.println("hello  git");
+        System.out.println("test进行更改了");
 
     }
 }
